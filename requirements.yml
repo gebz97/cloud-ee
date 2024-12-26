@@ -1,0 +1,11 @@
+---
+roles:
+collections:
+  - name: community.docker
+    version: 4.2.0
+  - name: containers.podman
+    version: 1.16.2
+  - name: kubernetes.core
+    version: 5.0.0
+  - name: openstack.cloud
+    version: 2.3.3
